@@ -14,8 +14,8 @@ description: "We create easy decentralized games."
 - decentralized
 - open-sourced
 - does NOT have an owner
-- nobody can control it/them
-- EVEN THE CREATOR, nobody
+- nobody can control<br/>
+  EVEN THE CREATOR
 - easy to play
 - true game, keep traps away
 
@@ -33,13 +33,11 @@ description: "We create easy decentralized games."
 
 - **Say something to the world**
   <br>[https://saySomething2.world/](https://saySomething2.world/),
-  another domain is [https://0123eth.com/](https://0123eth.com/).
+  another domain is [https://0123eth.com/](https://0123eth.com/)
   Decentralized, open-sourced, no owner, running on Ethereum blockchain.
-  Coming soon.
 - Yes, that's the first and only one for now.
 
 
 ## Just
 
 Wish you wise, lucky and rich!
-

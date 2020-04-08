@@ -14,12 +14,21 @@ categories:
 - Contract
 ---
 
-# SaySomething2.world - Lucky-cookies contract
+# Lucky-cookies contract
 
-...
+## Address
 
-will update soon.
+`0x123456fdD46513126a65896a3Ae522e5D0D5A8f1`
 
-```solidity
-// codes and functions
-```
+
+## Open-sourced on Github.com
+
+- lucky_cookies.sol
+  [https://github.com/PushDotGame/contracts/blob/master/lucky_cookies.sol](https://github.com/PushDotGame/contracts/blob/master/lucky_cookies.sol)
+- lucky_cookies.json - ABI
+  [https://github.com/PushDotGame/contracts/blob/master/lucky_cookies.json](https://github.com/PushDotGame/contracts/blob/master/lucky_cookies.json)
+
+
+## ...
+
+will update more..

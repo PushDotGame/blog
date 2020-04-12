@@ -90,7 +90,29 @@ You can push a message to the Ethereum blockchain,
 no one, no one, I mean no one can ever edit or delete it,
 even a word, even a punctuation, even yourself nor our team. 
 
-..
+That's an easy and simple way to experience a feature of blockchain.
 
-more words to type here, may be later.
+As a learner or beginner, you can manage:
 
+- How to create a wallet which is private, and secure enough
+- How to exchange money to USDT or TUSD..
+- How to buy Bitcoin, or ETH
+- How to transfer Bitcoin and ETH to your personal from an exchange
+- How to transfer crypto-currency from your wallet to another
+- How to use a blockchain browser to verify a transaction
+- How to interact with a contract on Ethereum blockchain
+- How to write a message, and push it to the Ethereum blockchain
+- How to ... ... ...
+
+And, you may ask the cost?
+
+Only 0.123 ETH for a message.
+
+
+## It's a game, but it would make considerable extra income for you
+
+- surprise
+- prize
+- bonus
+
+Just enjoy the game! Then, help others.

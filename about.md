@@ -19,7 +19,7 @@ but only take a little bit from it.
 Let more and more people learn, understand block-chain,
 hold and use crypto-currencies is our goal.
 
-讓更多人了解、懂得共塊鏈，持有和使用加密貨幣，是我們的目標。
+讓更多人了解、懂得區塊鏈，持有和使用加密貨幣，是我們的目標。
 
 You are now visiting only one page on our site,
 to explore more, scroll to top-left corner, or click: [https://push.game/](https://push.game/)
